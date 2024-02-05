@@ -1,7 +1,5 @@
 # Chrono Striker
 
-# Chrono Striker
-
 ## Description
 
 Chrono Striker is a thrilling 2D game where you assume the role of a courageous soldier tasked with defending your city from enemy invaders. With the city under siege and a formidable boss looming, you must fight through various levels, utilizing weapons and skills to overcome enemy soldiers. Prepare for fast-paced action, stunning graphics, and challenging boss encounters in this adrenaline-pumping adventure!
